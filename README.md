@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sagraha, Ghiffari Kenang (mendhiri)</h1>
-<h4 align="left">I am an undergraduate student in Mathematics at IPB University with a strong interest in **machine learning, graph neural networks, and quantum artificial intelligence**. My current work focuses on the **theoretical properties of loss functions in graph-based recommender systems**, particularly analyzing convexity, gradient dynamics, and convergence.</h3>
+I am an undergraduate student in Mathematics at IPB University with a strong interest in **machine learning, graph neural networks, and quantum artificial intelligence**. My current work focuses on the **theoretical properties of loss functions in graph-based recommender systems**, particularly analyzing convexity, gradient dynamics, and convergence
 
 ## Research Interests
 - Graph-based recommender systems
