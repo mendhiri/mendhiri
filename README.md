@@ -6,11 +6,7 @@
 - Machine learning and data-driven modeling
 - Mathematical foundations of optimization and learning algorithms
 
-## Current Work
-- Undergraduate thesis: _Mathematical analysis of loss functions in graph neural network recommender systems_
-- Research on clustering and community detection for student activity networks
-- Development of SATRIA: _AI for credit risk assessment and external signal monitoring_
-- Exploration of purpose-driven learning models through **Jalansiswa**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
