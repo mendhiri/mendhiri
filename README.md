@@ -12,7 +12,6 @@ Beyond research, I am also developing **Jalansiswa**, a learning platform that p
 - Graph-based recommender systems
 - Machine learning and data-driven modeling
 - Mathematical foundations of optimization and learning algorithms
-- Quantum artificial intelligence
 
 ---
 
