@@ -35,8 +35,6 @@ Beyond research, I am also developing **Jalansiswa**, a learning platform that p
 
 ## Connect
 
-- Email: [ghiffariks@gmail.com](mailto:ghiffariks@gmail.com)
-- LinkedIn: [linkedin.com/in/ghiffariks](https://www.linkedin.com/in/ghiffariks/)
-- Website/Blog: [Jalansiswa](https://jalansiswa.com)
+- LinkedIn: [linkedin.com/in/ghiffariks](https://www.linkedin.com/in/sagrahagk/)
 
 ---
