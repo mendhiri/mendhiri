@@ -3,9 +3,7 @@
 
 
 ### About Me  
-I am an undergraduate student in **Mathematics at IPB University** with deep interest in  
-**machine learning, graph neural networks, and graph knowledge systems**.  
-Currently, I am exploring the **theoretical properties of loss functions in graph-based recommender systems**, focusing on convexity, gradient dynamics, and convergence.  
+I am an undergraduate student in **Mathematics at IPB University** with deep interest in  **machine learning, graph neural networks, and graph knowledge systems**. Currently, I am exploring the **theoretical properties of loss functions in graph-based recommender systems**, focusing on convexity, gradient dynamics, and convergence.  
 
 Beyond research, I also explore **design, branding, and filmography**, blending analytical precision with creativity.  
 
