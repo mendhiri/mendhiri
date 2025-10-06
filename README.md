@@ -6,7 +6,6 @@ I am an undergraduate student in Mathematics at IPB University with a strong int
 - Machine learning and data-driven modeling
 - Mathematical foundations of optimization and learning algorithms
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
